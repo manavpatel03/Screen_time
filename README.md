@@ -17,4 +17,16 @@ Follow these steps to clone the repository and run the Screen Time Tracker app o
 
    ```bash
    git clone https://github.com/your_username/screen_time_tracker.git
-# Screen_time
+## Open in Android Studio
+
+1. Open Android Studio.
+2. Click on "Open an existing Android Studio project."
+3. Navigate to the cloned repository directory and select it.
+
+## Configure an Emulator or Connect a Physical Device
+
+You can use an existing emulator or connect a physical Android device to your computer.
+
+## Run the App
+
+1. In Android Studio, click on the "Run" button (green triangle) to build and run the app on your selected device/emulator.
